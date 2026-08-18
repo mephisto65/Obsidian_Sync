@@ -11,10 +11,14 @@
             "id": "4f3da9f186fcc3de",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "Post-Exploitation/Active Directory/Shadow Credentials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shadow Credentials"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Post-Exploitation/Active Directory/Shadow Credentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Post-Exploitation/Active Directory/Shadow Credentials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Post-Exploitation/Active Directory/Shadow Credentials.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,7 +189,18 @@
   },
   "active": "4f3da9f186fcc3de",
   "lastOpenFiles": [
+    "Exploitation/Web/Directory Traversal.md",
+    "Exploitation/Web/Null Byte Injection.md",
     "Post-Exploitation/Active Directory/DCSync.md",
+    "Cheatsheet/Hashcat.md",
+    "Cheatsheet/Nmap.md",
+    "Cheatsheet/Impacket.md",
+    "Cheatsheet/CrackMapExec.md",
+    "Exploitation/Réseau/DHCP Spoofing.md",
+    "Privilege Escalation/Active Directory/RBCD.md",
+    "Exploitation/Web/XSS Stockee.md",
+    "Exploitation/Active Directory/LDAP Injection.md",
+    "Concepts/LDAP.md",
     "Post-Exploitation/Active Directory/SID History Injection.md",
     "Post-Exploitation/Active Directory/Shadow Credentials.md",
     "Post-Exploitation/Active Directory/Golden Ticket.md",
@@ -203,19 +220,8 @@
     "Exploitation/Active Directory/PetitPotam.md",
     "Reconnaissance/Active/Enumeration DNS.md",
     "Reconnaissance/Active/Enumeration SMB.md",
-    "Reconnaissance/Passive/OSINT.md",
-    "Sans titre.md",
-    "Cheatsheet/CrackMapExec.md",
-    "Cheatsheet/Burp Suite.md",
-    "Cheatsheet/BloodHound.md",
-    "Cheatsheet/Responder.md",
-    "Privilege Escalation/Active Directory/RBCD.md",
     "Pasted image 20260818111240.png",
-    "Post-Exploitation/DCSync.md",
-    "Exploitation/Active Directory/WPAD Poisoning.md",
-    "Exploitation/Réseau/DHCP Spoofing.md",
     "Reconnaissance/Active/Active Directory",
-    "Reconnaissance/Active/Web/Fingerprinting.md",
     "Reconnaissance/Active/Web",
     "Reconnaissance/Active/Nouveau dossier",
     "Privilege Escalation/Active Directory",
