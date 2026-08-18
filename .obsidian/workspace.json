@@ -183,6 +183,13 @@
   },
   "active": "4f3da9f186fcc3de",
   "lastOpenFiles": [
+    "Post-Exploitation/Active Directory/DCSync.md",
+    "Post-Exploitation/Active Directory/SID History Injection.md",
+    "Post-Exploitation/Active Directory/Shadow Credentials.md",
+    "Post-Exploitation/Active Directory/Golden Ticket.md",
+    "Post-Exploitation/Active Directory",
+    "Post-Exploitation/Nouveau dossier",
+    "Post-Exploitation/SID History Injection.md",
     "Autres/Git et GitHub.md",
     "Autres",
     "Exploitation/Réseau/ARP Spoofing.md",
@@ -211,14 +218,7 @@
     "Reconnaissance/Active/Web/Fingerprinting.md",
     "Reconnaissance/Active/Web",
     "Reconnaissance/Active/Nouveau dossier",
-    "Concepts/LDAP.md",
-    "Concepts/MITM.md",
-    "Exploitation/Web/XSS Stockee.md",
-    "Exploitation/Réseau/VLAN Hopping.md",
-    "Exploitation/Active Directory/LLMNR-NBT-NS Poisoning.md",
     "Privilege Escalation/Active Directory",
-    "Privilege Escalation/Nouveau dossier",
-    "Privilege Escalation",
-    "Exploitation/Cracking"
+    "Privilege Escalation/Nouveau dossier"
   ]
 }
